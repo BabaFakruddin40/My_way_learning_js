@@ -7,7 +7,7 @@ function foo() {
 }
 foo(); // Output: 10
 
-//Hoisting
+//Hoisting - variables are hoisted to the top of their scope but not their assignments
 console.log(b); // Output: undefined
 var b = 20;
 
@@ -16,7 +16,7 @@ function bar() {
     var c = 30;
 }
 bar();  
-
+//Function hoisting - unlike variables, function declarations are hoisted to the top of their scope
 tipper("100"); // Output: 105
 
 function tipper(a) {
@@ -24,6 +24,7 @@ function tipper(a) {
     console.log(bill + 5);
 }
  
+//Function expression hoisting
 bigTipper("200");
 
 var bigTipper = function(a) {
