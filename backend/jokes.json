@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "programming",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs."
+  },
+  {
+    "id": 2,
+    "type": "general",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything!"
+  },
+  {
+    "id": 3,
+    "type": "programming",
+    "setup": "There are 10 types of people in the world...",
+    "punchline": "Those who understand binary, and those who don't."
+  },
+  {
+    "id": 4,
+    "type": "dad",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta."
+  },
+  {
+    "id": 5,
+    "type": "programming",
+    "setup": "Why did the JavaScript developer wear glasses?",
+    "punchline": "Because they couldn't C#."
+  }
+]
